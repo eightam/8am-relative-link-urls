@@ -1,4 +1,4 @@
-8am Relative Link URLs
+Relative local link URLs
 =========
 
 This plugin filters the URL to a relative path  when clicking on an "existing content" entry in the "Insert/edit link" panel in TinyMCE.
